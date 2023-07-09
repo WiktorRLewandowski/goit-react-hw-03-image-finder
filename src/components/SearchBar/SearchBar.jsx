@@ -16,7 +16,7 @@ export const SearchBar = ({ onSubmit }) => {
                     placeholder="Search images..." />
                 <button className={css.submit} type="submit"><FaSearch/></button>
             </form>
-            <div className={css.contact}><a href="https://github.com/WiktorRLewandowski/goit-js-hw-11">
+            <div className={css.contact}><a href="https://github.com/WiktorRLewandowski/goit-react-hw-03-image-finder">
                 <FaGithub className={css.icon}/></a>
             </div>
         </div>
